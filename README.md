@@ -1,7 +1,7 @@
 # Sistema De Mensagens
 
 ## O que faz?
-Pega uma mensagem que foi digitada e a exibe junto de outras onde se pode ver seu remetente, editar ou apagar.
+Recebe uma mensagem que foi digitada e a exibe junto de outras que já foram escritas onde se pode ver a mensagem ou apagá-la.
 
 ## Tecnologias usadas:
 - HTML
