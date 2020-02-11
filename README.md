@@ -8,3 +8,4 @@ Recebe uma mensagem que foi digitada e a exibe junto de outras que já foram esc
 - CSS
 - PHP
 - JavaScript
+- MySql
