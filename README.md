@@ -7,5 +7,4 @@ Recebe uma mensagem que foi digitada e a exibe junto de outras que já foram esc
 - HTML
 - CSS
 - PHP
-- JavaScript
 - MySql
